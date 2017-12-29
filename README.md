@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is my first assignment for courser
+This is my first assignment for coursera
